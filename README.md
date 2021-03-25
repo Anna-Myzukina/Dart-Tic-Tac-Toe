@@ -2,7 +2,7 @@
 The online tutorial Web Games with Dart: [Ultimate Tic-Tac-Toe](https://dart.academy/web-games-with-dart-ultimate-tic-tac-toe/).
 
 ## Description
-
+Good practise to use Dart in game building.
 
 ## Environment
 - [ ] [dartpad](https://dartpad.dev/)
