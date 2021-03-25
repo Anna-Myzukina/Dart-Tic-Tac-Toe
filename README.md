@@ -33,7 +33,7 @@ The following example game is won by the first player, X:
 To play Tic-tac-toe:
 
 - clone or download this project [from gitHub](https://github.com/Anna-Myzukina/Dart-Tic-Tac-Toe) using git clone https://github.com/Anna-Myzukina/Dart-Tic-Tac-Toe.git
-- cd Tic-Tac-Toe-OOP/
+- cd Dart-Tic-Tac-Toe
 - run the game, using ...
 
 
