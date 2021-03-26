@@ -54,4 +54,4 @@ To play Tic-tac-toe:
 
 ## 📝 License
 
-* MIT License, see [LICENSE](LICENSE.md) for details.
+* MIT License, see [LICENSE](https://github.com/Anna-Myzukina/Dart-Tic-Tac-Toe/blob/main/LICENSE) for details.
